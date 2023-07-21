@@ -2,10 +2,10 @@
   "HasProblem": false,
   "ForceUpdate": false,
   "Problem": "Update",
-  "Version": "6.4.7",
+  "Version": "6.5.0",
   "Stable_Version": {
     "Valid_Version": [
-       "6.4.7"
+       "6.5.0"
     ],
     "RealTime_AutoUpdate": false
   }
